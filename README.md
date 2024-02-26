@@ -24,4 +24,4 @@ Feel free to explore the code, experiment, and use it as a learning resource. Th
 
 ## Demo:
 
-To see the project in action, check out the live demo [here](https://harshiljain4073.github.io/Personal-Sample-Website---HTML-and-CSS/).
+To see the project in action, check out the live demo [here](https://harshiljain4073.github.io/Personal-Sample-Website--1/).
